@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = netcoreWebapi
+build_property.ProjectDir = /Users/rootman/Documents/GitHub/qwiet-csharp-demo/netcoreWebapi/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
